@@ -9,6 +9,8 @@ sites:
     url: https://skilho.com
   - name: Mobfixer
     url: https://www.mobfixer.in
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
