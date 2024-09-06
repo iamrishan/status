@@ -7,6 +7,8 @@ sites:
     url: https://mobfixeracademy.com
   - name: Skilho
     url: https://skilho.com
+  - name: Mobfixer
+    url: https://www.mobfixer.in
 
 
 status-website:
