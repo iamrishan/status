@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 84,
-    "timeWeek": 90,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 116,
+    "timeDay": 194,
+    "timeWeek": 109,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/skilho.com.ico",
     "slug": "skilho",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 132,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 133,
+    "timeDay": 146,
+    "timeWeek": 122,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2024-09-12": 40
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 133,
-    "timeWeek": 98,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 121,
+    "timeDay": 86,
+    "timeWeek": 101,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
