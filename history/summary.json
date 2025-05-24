@@ -42,19 +42,19 @@
     "url": "https://www.mobfixer.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.mobfixer.in.ico",
     "slug": "mobfixer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 212,
-    "timeWeek": 202,
-    "timeMonth": 167,
+    "timeDay": 202,
+    "timeWeek": 200,
+    "timeMonth": 168,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 20
     }
   }
 ]
