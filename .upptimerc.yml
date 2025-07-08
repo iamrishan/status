@@ -9,7 +9,10 @@ sites:
     url: https://skilho.com
   - name: Mobfixer
     url: https://www.mobfixer.in
-
+  - name: Mobfixer Chat
+    url: https://chat.mobfixer.in
+  - name: Mobfixer Display
+    url: https://main.d2qse7khege7p3.amplifyapp.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,6 +28,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
