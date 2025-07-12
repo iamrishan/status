@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1448,
-    "timeDay": 3204,
-    "timeWeek": 2510,
-    "timeMonth": 2410,
-    "timeYear": 1448,
+    "time": 1446,
+    "timeDay": 896,
+    "timeWeek": 2274,
+    "timeMonth": 2329,
+    "timeYear": 1446,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 152,
-    "timeWeek": 143,
-    "timeMonth": 138,
+    "timeDay": 111,
+    "timeWeek": 142,
+    "timeMonth": 137,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-09-12": 40
@@ -49,9 +49,9 @@
     "uptimeMonth": "97.35%",
     "uptimeYear": "99.73%",
     "time": 142,
-    "timeDay": 85,
-    "timeWeek": 121,
-    "timeMonth": 182,
+    "timeDay": 93,
+    "timeWeek": 114,
+    "timeMonth": 181,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2025-07-06": 534,
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.mobfixer.in.ico",
     "slug": "mobfixer-chat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "83.19%",
+    "uptimeDay": "40.00%",
+    "uptimeWeek": "83.19%",
+    "uptimeMonth": "83.19%",
+    "uptimeYear": "83.19%",
     "time": 1578,
-    "timeDay": 1508,
+    "timeDay": 0,
     "timeWeek": 1578,
     "timeMonth": 1578,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-12": 72,
+      "2025-07-11": 792
     }
   },
   {
@@ -90,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 111,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "time": 173,
+    "timeDay": 100,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   }
 ]
