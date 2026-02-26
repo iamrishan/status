@@ -9,10 +9,12 @@ sites:
     url: https://skilho.com
   - name: Mobfixer
     url: https://www.mobfixer.in
-  - name: Mobfixer Chat
-    url: https://chat.mobfixer.in
-  - name: Mobfixer Display
-    url: https://main.d2qse7khege7p3.amplifyapp.com/
+  - name: Orion Schematics
+    url: https://orionschematics.in
+  - name: Rekreo Tech
+    url: https://rekreotech.com
+  - name: Dringo
+    url: https://dringo.in
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
