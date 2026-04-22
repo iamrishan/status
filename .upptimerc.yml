@@ -3,12 +3,29 @@ owner: iamrishan # Your GitHub organization or username, where this repository l
 repo: status # The name of this repository
 
 sites:
+<<<<<<< HEAD
   - name: Mobfixer
     url: https://mobfixer.in
   - name: Mobfixer CRM
     url: https://crm.mobfixer.in
   - name: Mobfixer Academy
     url: https://mobfixeracademy.com
+=======
+  - name: iamrishan
+    url: https://iamrishan.com
+  - name: Mobfixer Academy
+    url: https://mobfixeracademy.com
+  - name: Skilho
+    url: https://skilho.com
+  - name: Mobfixer
+    url: https://www.mobfixer.in
+  - name: Orion Schematics
+    url: https://orionschematics.in
+  - name: Rekreo Tech
+    url: https://rekreotech.com
+  - name: Dringo
+    url: https://dringo.in
+>>>>>>> df4bcdaaba8c52ffd46e6747129dd9d5d7d8ede5
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
